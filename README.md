@@ -22,3 +22,11 @@ uvicorn main:app --reload
 curl -X POST "http://localhost:8000/verify-faces" \
   -F "file1=@image1.jpg" \
   -F "file2=@image2.jpg"
+
+  # Output Task1- A csv file 
+  <img width="588" height="661" alt="image" src="https://github.com/user-attachments/assets/39b1f5a3-dda0-4f1d-927a-97bd0d9880cf" />
+
+  # Output Task2
+  <img width="1022" height="610" alt="image" src="https://github.com/user-attachments/assets/5c45a7cc-7972-4e76-ba76-0c6ef09d9ec6" />
+
+
