@@ -1,0 +1,14 @@
+# Task 1: Web Scraping Dependencies
+requests==2.31.0
+beautifulsoup4==4.12.2
+pandas==2.0.3
+
+# Task 2: Face Authentication Dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+keras-facenet==0.3.2
+mtcnn==0.1.1
+tensorflow==2.15.0
+Pillow==10.1.0
+numpy==1.26.2
